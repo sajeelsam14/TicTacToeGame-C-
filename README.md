@@ -39,7 +39,7 @@ This project provides a basic implementation of the Tic Tac Toe game in C++. It 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe-cpp.git
+    git clone https://github.com/sajeelsam14/TicTacToeGame-C-
     ```
 
 2. Compile the code:
